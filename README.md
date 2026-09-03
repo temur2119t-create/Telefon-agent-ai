@@ -37,8 +37,8 @@ F-Droid orqali **Termux:API** ilovasi o'rnatilgani va unga Kamera/Lokatsiya/Stor
 
 ### 2. Bog'liqliklarni o'rnatish
 ```bash
-git clone https://github.com/AbuZar-Ansarii/Needle.git
-cd Needle
+https://github.com/temur2119t-create/Telefon-agent-ai.git
+cd Telefon-agent-ai
 pip install -r requirements.txt
 ```
 
